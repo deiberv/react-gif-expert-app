@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GridItem component debe hacer match con snapshop 1`] = `
+<div>
+  <div
+    class="col-3 col-md-4 col-sm-6 flex-column justify-content-center"
+  >
+    <img
+      alt="Saitama"
+      class="img-fluid"
+      src="https://one-ponch.com/saitama.jpg"
+    />
+    <p>
+       
+      Saitama
+       
+    </p>
+  </div>
+</div>
+`;
